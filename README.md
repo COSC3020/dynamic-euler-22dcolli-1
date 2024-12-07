@@ -31,4 +31,4 @@ I am attempting this from scratch, I will compare it to my last semesters reposi
 
 ### Answer:
 
-The worst-case complexity for this algorithm would be $/Theta(n)$, I believe this to be the case because the algorithm will iterate for whatever the specified $n$ is, and all the work done on each iteration is done in constant time, meaning that the complexity is simply $n$ in any case, which means the worst case is $\Theta(n)$
+The worst-case complexity for this algorithm would be $\Theta(n)$, I believe this to be the case because the algorithm will iterate for whatever the specified $n$ is, and all the work done on each iteration is done in constant time, meaning that the complexity is simply $n$ in any case, which means the worst case is $\Theta(n)$
