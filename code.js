@@ -10,17 +10,17 @@ function e(n) {
 }
 */
 
-function dynaE(n){
+function e(n){
 
     let fact = 1;
-    let e = 1;
+    let dynaE = 1;
 
     for(let i=1; i <= n; i++){
 
         fact = (fact * i);
-        e = (e+(1 / fact));
+        dynaE = (e+(1 / fact));
     }
-    return e;
+    return dynaE;
 
 }
 
