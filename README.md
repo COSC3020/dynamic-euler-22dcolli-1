@@ -17,3 +17,18 @@ but you need to go beyond that.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+## Plagarism Statement
+
+All exercises must contain the following statement:
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”
+
+## Note
+I am attempting this from scratch, I will compare it to my last semesters repository and make any corrections needed from that.
+
+### Answer:
+
+The worst-case complexity for this algorithm would be $/Theta(n)$, I believe this to be the case because the algorithm will iterate for whatever the specified $n$ is, and all the work done on each iteration is done in constant time, meaning that the complexity is simply $n$ in any case, which means the worst case is $\Theta(n)$
